@@ -51,7 +51,8 @@ setup(
         "": "claude-api"
     },
     py_modules=["claude_api"],
-    keywords=['claude', 'ai', 'claude-ai', 'API', 'requests', 'chatbot'],
+    keywords=['claude', 'ai', 'claude-ai', 'API', 'requests', 'chatbot',
+              'claude2'],
     install_requires=[
         'requests'
     ],
